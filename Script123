@@ -35,7 +35,7 @@
 -------[Dream x Hub]
 
 if _G.Key == "sadasfdq12N" then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DreamxHubBitKub/MoblieScript/main/Script"))()
+loadstring(game:HttpGet("asfsaf2"))()
 else
 game.Players.LocalPlayer:Kick("incorrect key")
 end
