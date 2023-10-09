@@ -34,7 +34,7 @@
 -------[Dream x Hub]
 -------[Dream x Hub]
 
-if _G.Key == "sadasfdq12N" then
+if _G.Key == "DREAMX-PCV1-AWDCA-012JAN" then
 loadstring(game:HttpGet("asfsaf2"))()
 else
 game.Players.LocalPlayer:Kick("incorrect key")
