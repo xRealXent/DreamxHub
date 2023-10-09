@@ -1,1 +1,41 @@
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
 
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+-------[Dream x Hub]
+
+if _G.Key == "DREAMX-PCV1-AWDCA-012JAN" then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DreamxHubBitKub/MoblieScript/main/Script"))()
+else
+game.Players.LocalPlayer:Kick("incorrect key")
+end
